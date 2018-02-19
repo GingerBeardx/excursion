@@ -14,3 +14,14 @@ html {
   font-weight: 300;
   font-size: 40px;
 }
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.subtext {
+  color: gray;
+  font-size: 21px;
+  font-weight: normal;
+}
