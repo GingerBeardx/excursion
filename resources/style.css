@@ -25,3 +25,7 @@ html {
   font-size: 21px;
   font-weight: normal;
 }
+
+.footer {
+  text-align: right;
+}
