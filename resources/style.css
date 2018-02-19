@@ -8,6 +8,8 @@ html {
 .headline {
   font-weight: normal;
   font-size: 50px;
+  background-image: url("../resources/images/mountainoverlook.jpg");
+  background-size: cover;
 }
 
 .declaration {
@@ -28,4 +30,8 @@ html {
 
 .footer {
   text-align: right;
+}
+
+.sellingpoints {
+  background: linear-gradient(#29293d, #000);
 }
